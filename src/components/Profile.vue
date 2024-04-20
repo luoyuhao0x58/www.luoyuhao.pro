@@ -12,7 +12,9 @@ defineProps<{ msg: string }>()
 <style scoped>
 .title {
   margin-top: 2px;
-  font-size: 3.2em;
+  margin-bottom: 1rem;
+  font-size: 3em;
   line-height: 1.1;
+  color: whitesmoke;
 }
 </style>
